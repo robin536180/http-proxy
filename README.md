@@ -7,6 +7,6 @@
 
 2、enter into the root directory, and open the command line, type in: 
 
-   mvn spring-boot:run
+mvn spring-boot:run
 
 3、open the browser, vist http://localhost:8080
