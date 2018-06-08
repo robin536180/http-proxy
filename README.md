@@ -5,7 +5,8 @@
 
 1、modify attribute "targetUri" as your own url and save in App.java 
 
-2、enter into the root directory, and open the command line, type in:
-mvn spring-boot:run
+2、enter into the root directory, and open the command line, type in: 
+
+   mvn spring-boot:run
 
 3、open the browser, vist http://localhost:8080
